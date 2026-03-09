@@ -19,7 +19,7 @@ A modern, single-page personal portfolio built with React, TypeScript, and Tailw
 ## Tech Stack
 
 - **Frontend Framework**: React 18 with TypeScript
-- **Build Tool**: Vite
+- **Build Tool**: TypeScript
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
 - **Deployment Ready**: Optimized for production builds
@@ -101,7 +101,7 @@ The portfolio can be deployed to any static hosting service:
 1. Push your code to GitHub
 2. Go to [vercel.com](https://vercel.com)
 3. Import your repository
-4. Vercel will automatically detect Vite and build settings
+4. Vercel will automatically detect TypeScript and build settings
 5. Click Deploy
 
 ## Available Scripts
